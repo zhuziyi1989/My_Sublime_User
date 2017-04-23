@@ -1,0 +1,9 @@
+[				
+	{
+	  "keys": ["super+alt+t"],
+	  "command": "open_terminal",
+	  "args": {
+		  "parameters": ["--open-in-tab"]
+	  }
+	}
+]

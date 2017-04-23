@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"CSS Format",
+		"CSS3",
+		"CSScomb",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Insert Callback",
+		"jQuery",
+		"JsFormat",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SVN",
+		"Terminal",
+		"Vue Syntax Highlight"
+	]
+}
