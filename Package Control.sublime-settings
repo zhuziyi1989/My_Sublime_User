@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Babel",
 		"BracketHighlighter",
 		"CSS Format",
 		"CSS3",
@@ -17,10 +18,12 @@
 		"jQuery",
 		"JsFormat",
 		"Package Control",
+		"React ES6 Snippets",
 		"SFTP",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-jsxhint",
 		"SVN",
 		"Terminal",
 		"Vue Syntax Highlight"
