@@ -1,11 +1,11 @@
-# My_Sublime_User
+# My Sublime User
 
-## SublimeText 配置备份（User 文件夹)
+## SublimeText 配置备份（仅 User 文件夹)
 
 ### 使用git同步subl配置和插件
 
 ```bash
-cd [package folder]/User
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
 git init
 ```
 
