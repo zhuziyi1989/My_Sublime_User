@@ -1,16 +1,33 @@
 {
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://cdn.jsdelivr.net/gh/HBLong/channel_v3_daily@master/channel_v3.json",
+		"https://web.archive.org/web/20150905194312/https://packagecontrol.io/channel_v3.json"
+	],
 	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
 	"enable_tab_scrolling": false,
 	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"vendor",
+		"pages-desktop"
+	],
 	"font_face": "Source Code Pro",
 	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
+	"ignore_vcs_packages": true,
 	"ignored_packages":
 	[
-		"Vintage"
 	],
+	"index_files": false,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"margin": 4,

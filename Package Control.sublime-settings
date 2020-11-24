@@ -7,25 +7,37 @@
 	[
 		"Alignment",
 		"Babel",
+		"Base Encoder",
 		"BracketHighlighter",
 		"CSS Format",
 		"CSS3",
 		"CSScomb",
 		"Emmet",
+		"Generic Config",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"Insert Callback",
+		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
 		"JsFormat",
+		"JSX",
 		"Package Control",
+		"Rainbowth",
 		"React ES6 Snippets",
 		"SFTP",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-jsxhint",
-		"SVN",
+		"Sync Settings",
 		"Terminal",
-		"Vue Syntax Highlight"
+		"Theme - Spacegray",
+		"URLEncode"
+	],
+	"repositories":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://cdn.jsdelivr.net/gh/HBLong/channel_v3_daily@master/channel_v3.json",
+		"https://web.archive.org/web/20150905194312/https://packagecontrol.io/channel_v3.json"
 	]
 }

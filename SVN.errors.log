@@ -1,0 +1,16 @@
+2017-09-11 10:51:38
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 20, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 92, in run_with_except
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 4218, in do_update
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 4180, in alert_not_applicable
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 4189, in is_applicable
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/status.py", line 222, in fetch
+IndexError: string index out of range
+2017-09-11 10:51:47
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 20, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 92, in run_with_except
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 3822, in do_status
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/status.py", line 222, in fetch
+IndexError: string index out of range

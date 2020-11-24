@@ -1,0 +1,46 @@
+{
+    // Your GitHub API token
+    // see: https://github.com/condemil/Gist#generating-access-token
+    "token": "7b4a8e944efdcf351b1586583264579d71efee78",
+
+    // Show GitHub organizations
+    // Example: "company1", "company2"
+    "include_orgs": [],
+
+    // Show GitHub users
+    // Example: "user1", "user2"
+    "include_users": [],
+
+    // Show the authors of Gists
+    "show_authors": false,
+
+    // Prefer first file name instead of description in Open Gist menu
+    "prefer_filename": false,
+
+    // Proxy server
+    // Format: "http://user:pass@proxy:port"
+    "https_proxy": "",
+
+    // Github URL for public & enterprise
+    // Default: https://api.github.com for github.com
+    // Example: https://github.domain.com/api/v3
+    "api_url": "https://api.github.com",
+
+    // Max Gists to show (max 100 allowed by GitHub API)
+    "max_gists": 100,
+
+    // Only use starred gists
+    "use_starred": false,
+
+    // Disable the "save file..." dialog when closing a Gist
+    "supress_save_dialog": true,
+
+    // Update the Gist upon saving the file, suppressing the filename dialog.
+    "update_on_save": true
+
+    // Limit to gists with specific prefix
+    //"gist_prefix": "Snippet:",
+
+    // Limit to gists with specific tag (#tag)
+    //"gist_tag": "snippet"
+}
